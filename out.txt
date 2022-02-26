@@ -1,0 +1,8 @@
+-------------AT SENDERS SIDE--------------- 
+Before division the message string is :: 101101000
+After division the message string is :: 000000010
+The CRC bits are :: 010
+The Final Encrypted Message is :: 101101010
+
+-------------AT RECEIVERS SIDE--------------- 
+Message is error free!!
