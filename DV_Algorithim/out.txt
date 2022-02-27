@@ -1,0 +1,35 @@
+Enter number of routers :: 
+Enter number of connections :: Enter 5 details in (source_router,destination_router,hop_cost) format :: 
+Router Table for Router 0 :: 
+Router Distance from Source-router 0
+Source	Dest	Hop_Cost
+0		0		0
+0		1		2
+0		2		3
+0		3		3
+Router Table for Router 1 :: 
+Router Distance from Source-router 1
+Source	Dest	Hop_Cost
+1		0		1
+1		1		0
+1		2		3
+1		3		1
+Router Table for Router 2 :: 
+Router Distance from Source-router 2
+Source	Dest	Hop_Cost
+2		0		2
+2		1		3
+2		2		0
+2		3		2
+Router Table for Router 3 :: 
+Router Distance from Source-router 3
+Source	Dest	Hop_Cost
+3		0		3
+3		1		1
+3		2		2
+3		3		0
+Complete Router table for the network_lanes :: 
+0	1	2	3	
+1	0	3	1	
+2	3	0	2	
+3	1	2	0	
