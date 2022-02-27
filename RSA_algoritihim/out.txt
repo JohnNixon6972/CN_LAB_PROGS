@@ -1,0 +1,5 @@
+Original Message is :: 20
+Encryption key (private key) 'e' is :: 5
+Decryption key (public key) 'd' is :: 29
+Encrypted Message is :: 50
+Decrypted Message is :: 20
